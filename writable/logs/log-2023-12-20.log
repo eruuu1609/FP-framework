@@ -1,0 +1,660 @@
+WARNING - 2023-12-20 09:08:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:08:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_merk is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:08:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_tipe is deprecated in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 09:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 09:08:51 --> Cart Class Initialized
+WARNING - 2023-12-20 09:08:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:08:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_merk is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:08:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_tipe is deprecated in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 09:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 09:08:57 --> Cart Class Initialized
+WARNING - 2023-12-20 09:08:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:08:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_merk is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:08:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_tipe is deprecated in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 09:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 09:08:57 --> Cart Class Initialized
+WARNING - 2023-12-20 09:08:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:09:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_merk is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:09:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_tipe is deprecated in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 09:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 09:09:00 --> Cart Class Initialized
+WARNING - 2023-12-20 09:09:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:09:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_merk is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:09:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_tipe is deprecated in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 09:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 09:09:00 --> Cart Class Initialized
+WARNING - 2023-12-20 09:09:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:09:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_merk is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 09:09:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_tipe is deprecated in APPPATH\Controllers\Home.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 09:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 09:09:02 --> Cart Class Initialized
+WARNING - 2023-12-20 09:11:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 10.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 09:11:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 09:11:52 --> Cart Class Initialized
+WARNING - 2023-12-20 12:35:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 12:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 12:35:23 --> Cart Class Initialized
+WARNING - 2023-12-20 12:50:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 12:50:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 12:50:58 --> Cart Class Initialized
+WARNING - 2023-12-20 12:51:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Checkout::$Model_checkout is deprecated in APPPATH\Controllers\Checkout.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Checkout->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Checkout::$Model_sepatu is deprecated in APPPATH\Controllers\Checkout.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Checkout->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 12:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 12:51:00 --> Cart Class Initialized
+WARNING - 2023-12-20 12:51:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 12:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 12:51:02 --> Cart Class Initialized
+WARNING - 2023-12-20 12:51:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_sepatu is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_merk is deprecated in APPPATH\Controllers\Dashboard.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_tipe is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_checkout is deprecated in APPPATH\Controllers\Dashboard.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Tipe::$Model_tipe is deprecated in APPPATH\Controllers\Tipe.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Tipe->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_sepatu is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_merk is deprecated in APPPATH\Controllers\Dashboard.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_tipe is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 12:51:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_checkout is deprecated in APPPATH\Controllers\Dashboard.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:04:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 14:04:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 14:04:40 --> Cart Class Initialized
+WARNING - 2023-12-20 14:05:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 14:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 14:05:06 --> Cart Class Initialized
+WARNING - 2023-12-20 14:05:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 14:05:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 14:05:07 --> Cart Class Initialized
+WARNING - 2023-12-20 14:05:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 14:05:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 14:05:24 --> Cart Class Initialized
+WARNING - 2023-12-20 14:05:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 14:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 14:05:59 --> Cart Class Initialized
+WARNING - 2023-12-20 14:05:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 14:05:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 14:05:59 --> Cart Class Initialized
+WARNING - 2023-12-20 14:06:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 14:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 14:06:13 --> Cart Class Initialized
+WARNING - 2023-12-20 14:06:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 14:06:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 14:06:13 --> Cart Class Initialized
+WARNING - 2023-12-20 14:06:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$Model_sepatu is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-20 14:06:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-20 14:06:21 --> Cart Class Initialized
+WARNING - 2023-12-20 14:25:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_sepatu is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:25:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_merk is deprecated in APPPATH\Controllers\Dashboard.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:25:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_tipe is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:25:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_checkout is deprecated in APPPATH\Controllers\Dashboard.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:26:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_sepatu is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:26:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_merk is deprecated in APPPATH\Controllers\Dashboard.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:26:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_tipe is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:26:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_checkout is deprecated in APPPATH\Controllers\Dashboard.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:26:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:26:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:26:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:27:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:27:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:27:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:28:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:29:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:30:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:30:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Merk::$Model_merk is deprecated in APPPATH\Controllers\Merk.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Merk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:30:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Tipe::$Model_tipe is deprecated in APPPATH\Controllers\Tipe.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Tipe->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:30:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Tipe::$Model_tipe is deprecated in APPPATH\Controllers\Tipe.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Tipe->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:30:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Tipe::$Model_tipe is deprecated in APPPATH\Controllers\Tipe.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Tipe->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:30:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Tipe::$Model_tipe is deprecated in APPPATH\Controllers\Tipe.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Tipe->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:30:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Tipe::$Model_tipe is deprecated in APPPATH\Controllers\Tipe.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Tipe->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:30:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Tipe::$Model_tipe is deprecated in APPPATH\Controllers\Tipe.php on line 9.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Tipe->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:31:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_sepatu is deprecated in APPPATH\Controllers\Dashboard.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:31:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_merk is deprecated in APPPATH\Controllers\Dashboard.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:31:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_tipe is deprecated in APPPATH\Controllers\Dashboard.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 14:31:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Dashboard::$Model_checkout is deprecated in APPPATH\Controllers\Dashboard.php on line 17.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Dashboard->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 15:46:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 16:09:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_sepatu is deprecated in APPPATH\Controllers\Sepatu.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 16:09:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_merk is deprecated in APPPATH\Controllers\Sepatu.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-20 16:09:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Sepatu::$Model_tipe is deprecated in APPPATH\Controllers\Sepatu.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(891): App\Controllers\Sepatu->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(485): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,272 @@
+CRITICAL - 2023-12-17 06:32:40 --> Invalid file: "admin/v_add_merk.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/v_add_merk.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_add_merk', [], true)
+ 3 APPPATH\Controllers\Dashboard.php(33): view('admin/v_add_merk', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Dashboard->addMerk()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 07:18:54 --> Too few arguments to function App\Controllers\Merk::edit(), 0 passed in C:\xampp\htdocs\fp-framework\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\Merk.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Merk->edit()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 07:20:19 --> Invalid file: "/.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/', [], true)
+ 3 APPPATH\Controllers\Merk.php(18): view('/', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Merk->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 07:21:27 --> Invalid file: "v_merk.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_merk.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('v_merk', [], true)
+ 3 APPPATH\Controllers\Merk.php(18): view('v_merk', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Merk->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 07:25:06 --> Invalid file: "/.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/', [], true)
+ 3 APPPATH\Controllers\Tipe.php(18): view('/', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Tipe->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tipe))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-17 07:30:20 --> mysqli_sql_exception: Column 'nama_merk' cannot be null in C:\xampp\htdocs\fp-framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\fp-framework\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `me...', 0)
+#1 C:\xampp\htdocs\fp-framework\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 C:\xampp\htdocs\fp-framework\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 C:\xampp\htdocs\fp-framework\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 C:\xampp\htdocs\fp-framework\app\Models\Model_merk.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\fp-framework\app\Controllers\Merk.php(26): App\Models\Model_merk->add(Array)
+#6 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(919): App\Controllers\Merk->add()
+#7 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+#8 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\fp-framework\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-12-17 07:30:20 --> Column 'nama_merk' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `merk` (`nama_merk`) VALUES (:nama_merk:)', [...], false)
+ 2 APPPATH\Models\Model_merk.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Merk.php(26): App\Models\Model_merk->add([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Merk->add()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-17 07:30:25 --> mysqli_sql_exception: Column 'nama_merk' cannot be null in C:\xampp\htdocs\fp-framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\fp-framework\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `me...', 0)
+#1 C:\xampp\htdocs\fp-framework\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 C:\xampp\htdocs\fp-framework\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 C:\xampp\htdocs\fp-framework\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 C:\xampp\htdocs\fp-framework\app\Models\Model_merk.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\fp-framework\app\Controllers\Merk.php(26): App\Models\Model_merk->add(Array)
+#6 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(919): App\Controllers\Merk->add()
+#7 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+#8 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\fp-framework\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-12-17 07:30:25 --> Column 'nama_merk' cannot be null
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `merk` (`nama_merk`) VALUES (:nama_merk:)', [...], false)
+ 2 APPPATH\Models\Model_merk.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Merk.php(26): App\Models\Model_merk->add([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Merk->add()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 07:30:43 --> Invalid file: "admin/v_add_merk.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/v_add_merk.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_add_merk', [], true)
+ 3 APPPATH\Controllers\Merk.php(25): view('admin/v_add_merk', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Merk->add()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 07:38:00 --> Invalid file: "admin/v_edit_merk.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/v_edit_merk.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_merk', [], true)
+ 3 APPPATH\Controllers\Merk.php(41): view('admin/v_edit_merk', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Merk->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 07:40:33 --> Too few arguments to function App\Controllers\Merk::update(), 0 passed in C:\xampp\htdocs\fp-framework\system\CodeIgniter.php on line 919 and exactly 1 expected
+in APPPATH\Controllers\Merk.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Merk->update()
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 07:43:12 --> Invalid file: "/.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('/.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('/', [], true)
+ 3 APPPATH\Controllers\Tipe.php(18): view('/', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Tipe->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tipe))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 07:47:16 --> Undefined variable $merk
+in APPPATH\Views\admin\v_edit_tipe.php on line 350.
+ 1 APPPATH\Views\admin\v_edit_tipe.php(350): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $merk', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_tipe.php', 350)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_tipe.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_tipe', [], true)
+ 5 APPPATH\Controllers\Tipe.php(41): view('admin/v_edit_tipe', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Tipe->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tipe))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-17 07:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-17 07:51:58 --> Undefined array key "id_tipe"
+in APPPATH\Views\admin\v_merk.php on line 369.
+ 1 APPPATH\Views\admin\v_merk.php(369): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_tipe"', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_merk.php', 369)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_merk.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_merk', [], true)
+ 5 APPPATH\Controllers\Merk.php(18): view('admin/v_merk', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Merk->index()
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Merk))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 08:40:46 --> Invalid file: "v_sepatu.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_sepatu.php')
+ 2 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('v_sepatu', [], true)
+ 3 APPPATH\Controllers\Sepatu.php(27): view('v_sepatu', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->index()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-17 08:50:45 --> mysqli_sql_exception: Unknown column 'nama_sepatu' in 'field list' in C:\xampp\htdocs\fp-framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\fp-framework\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `me...', 0)
+#1 C:\xampp\htdocs\fp-framework\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 C:\xampp\htdocs\fp-framework\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 C:\xampp\htdocs\fp-framework\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 C:\xampp\htdocs\fp-framework\app\Models\Model_merk.php(23): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\fp-framework\app\Controllers\Sepatu.php(47): App\Models\Model_merk->add(Array)
+#6 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(919): App\Controllers\Sepatu->insert()
+#7 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+#8 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\fp-framework\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-12-17 08:50:45 --> Unknown column 'nama_sepatu' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `merk` (`nama_sepatu`, `merk_sepatu`, `tipe_sepatu`, `harga_sepatu`) VALUES (:nama_sepatu:, :merk_sepatu:, :tipe_sepatu:, :harga_sepatu:)', [...], false)
+ 2 APPPATH\Models\Model_merk.php(23): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Sepatu.php(47): App\Models\Model_merk->add([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->insert()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-12-17 08:51:42 --> mysqli_sql_exception: Unknown column 'merk_sepatu' in 'field list' in C:\xampp\htdocs\fp-framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\fp-framework\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `se...', 0)
+#1 C:\xampp\htdocs\fp-framework\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `se...')
+#2 C:\xampp\htdocs\fp-framework\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `se...')
+#3 C:\xampp\htdocs\fp-framework\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `se...', Array, false)
+#4 C:\xampp\htdocs\fp-framework\app\Models\Model_sepatu.php(27): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\fp-framework\app\Controllers\Sepatu.php(47): App\Models\Model_sepatu->add(Array)
+#6 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(919): App\Controllers\Sepatu->insert()
+#7 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+#8 C:\xampp\htdocs\fp-framework\system\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\fp-framework\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-12-17 08:51:42 --> Unknown column 'merk_sepatu' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 646.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `sepatu` (`nama_sepatu`, `merk_sepatu`, `tipe_sepatu`, `harga_sepatu`) VALUES (:nama_sepatu:, :merk_sepatu:, :tipe_sepatu:, :harga_sepatu:)', [...], false)
+ 2 APPPATH\Models\Model_sepatu.php(27): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Sepatu.php(47): App\Models\Model_sepatu->add([...])
+ 4 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->insert()
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 6 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 08:58:03 --> Undefined variable $merk
+in APPPATH\Views\admin\v_edit_sepatu.php on line 360.
+ 1 APPPATH\Views\admin\v_edit_sepatu.php(360): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $merk', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php', 360)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_sepatu', [], true)
+ 5 APPPATH\Controllers\Sepatu.php(55): view('admin/v_edit_sepatu', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 08:59:30 --> Undefined variable $value
+in APPPATH\Views\admin\v_edit_sepatu.php on line 359.
+ 1 APPPATH\Views\admin\v_edit_sepatu.php(359): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $value', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php', 359)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_sepatu', [], true)
+ 5 APPPATH\Controllers\Sepatu.php(57): view('admin/v_edit_sepatu', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 08:59:40 --> Undefined array key "nama_merk"
+in APPPATH\Views\admin\v_edit_sepatu.php on line 359.
+ 1 APPPATH\Views\admin\v_edit_sepatu.php(359): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama_merk"', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php', 359)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_sepatu', [], true)
+ 5 APPPATH\Controllers\Sepatu.php(57): view('admin/v_edit_sepatu', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 09:01:04 --> Undefined array key "id_merk"
+in APPPATH\Views\admin\v_edit_sepatu.php on line 359.
+ 1 APPPATH\Views\admin\v_edit_sepatu.php(359): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_merk"', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php', 359)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_sepatu', [], true)
+ 5 APPPATH\Controllers\Sepatu.php(57): view('admin/v_edit_sepatu', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 09:01:45 --> Undefined array key "id_merk"
+in APPPATH\Views\admin\v_edit_sepatu.php on line 359.
+ 1 APPPATH\Views\admin\v_edit_sepatu.php(359): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_merk"', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php', 359)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_sepatu', [], true)
+ 5 APPPATH\Controllers\Sepatu.php(57): view('admin/v_edit_sepatu', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 09:01:46 --> Undefined array key "id_merk"
+in APPPATH\Views\admin\v_edit_sepatu.php on line 359.
+ 1 APPPATH\Views\admin\v_edit_sepatu.php(359): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_merk"', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php', 359)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_sepatu', [], true)
+ 5 APPPATH\Controllers\Sepatu.php(57): view('admin/v_edit_sepatu', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-17 09:03:04 --> Undefined variable $value
+in APPPATH\Views\admin\v_edit_sepatu.php on line 359.
+ 1 APPPATH\Views\admin\v_edit_sepatu.php(359): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $value', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php', 359)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_sepatu', [], true)
+ 5 APPPATH\Controllers\Sepatu.php(57): view('admin/v_edit_sepatu', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

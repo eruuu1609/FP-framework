@@ -1,0 +1,7 @@
+CRITICAL - 2023-12-15 22:43:56 --> Undefined property: App\Controllers\Sepatu::$load
+in APPPATH\Controllers\Sepatu.php on line 11.
+ 1 APPPATH\Controllers\Sepatu.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Sepatu::$load', 'C:\\xampp\\htdocs\\fp-framework\\app\\Controllers\\Sepatu.php', 11)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->index()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

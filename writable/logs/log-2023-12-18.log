@@ -1,0 +1,76 @@
+CRITICAL - 2023-12-18 23:37:49 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Sepatu.php on line 64.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('1')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-18 23:44:11 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Sepatu.php on line 64.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('7')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-18 23:44:28 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Sepatu.php on line 64.
+ 1 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('7')
+ 2 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 3 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-18 23:47:01 --> Undefined variable $user
+in APPPATH\Views\admin\v_edit_sepatu.php on line 384.
+ 1 APPPATH\Views\admin\v_edit_sepatu.php(384): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user', 'C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php', 384)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\fp-framework\\app\\Views\\admin\\v_edit_sepatu.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1188): CodeIgniter\View\View->render('admin/v_edit_sepatu', [], true)
+ 5 APPPATH\Controllers\Sepatu.php(66): view('admin/v_edit_sepatu', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->edit('7')
+ 7 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 8 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-18 23:47:34 --> Undefined property: App\Controllers\Sepatu::$Model_user
+in APPPATH\Controllers\Sepatu.php on line 105.
+ 1 APPPATH\Controllers\Sepatu.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Sepatu::$Model_user', 'C:\\xampp\\htdocs\\fp-framework\\app\\Controllers\\Sepatu.php', 105)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->update('7')
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-18 23:48:01 --> unlink(foto/1702942762_853751e98f16bc51bf13.png): No such file or directory
+in APPPATH\Controllers\Sepatu.php on line 90.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/1702942762_853751e98f16bc51bf13.png): No such file or directory', 'C:\\xampp\\htdocs\\fp-framework\\app\\Controllers\\Sepatu.php', 90)
+ 2 APPPATH\Controllers\Sepatu.php(90): unlink('foto/1702942762_853751e98f16bc51bf13.png')
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->update('7')
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-18 23:52:55 --> unlink(foto/user1.png): No such file or directory
+in APPPATH\Controllers\Sepatu.php on line 90.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/user1.png): No such file or directory', 'C:\\xampp\\htdocs\\fp-framework\\app\\Controllers\\Sepatu.php', 90)
+ 2 APPPATH\Controllers\Sepatu.php(90): unlink('foto/user1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->update('1')
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-18 23:53:08 --> unlink(foto/user1.png): No such file or directory
+in APPPATH\Controllers\Sepatu.php on line 90.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/user1.png): No such file or directory', 'C:\\xampp\\htdocs\\fp-framework\\app\\Controllers\\Sepatu.php', 90)
+ 2 APPPATH\Controllers\Sepatu.php(90): unlink('foto/user1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->update('1')
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-18 23:53:32 --> unlink(foto/user1.png): No such file or directory
+in APPPATH\Controllers\Sepatu.php on line 90.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/user1.png): No such file or directory', 'C:\\xampp\\htdocs\\fp-framework\\app\\Controllers\\Sepatu.php', 90)
+ 2 APPPATH\Controllers\Sepatu.php(90): unlink('foto/user1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->update('1')
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-18 23:54:05 --> unlink(foto/user1.png): No such file or directory
+in APPPATH\Controllers\Sepatu.php on line 90.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(foto/user1.png): No such file or directory', 'C:\\xampp\\htdocs\\fp-framework\\app\\Controllers\\Sepatu.php', 90)
+ 2 APPPATH\Controllers\Sepatu.php(90): unlink('foto/user1.png')
+ 3 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Sepatu->update('2')
+ 4 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sepatu))
+ 5 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
